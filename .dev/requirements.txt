@@ -1,0 +1,6 @@
+python-opencv
+numpy
+pandas
+PyYAML
+matplotlib
+matplotlib-inline
