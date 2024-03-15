@@ -4,8 +4,8 @@ services:
   dev_py:
     image: python:step3
     build: .
-    container_name: dev_py3
-    working__dir: /workspace/src
+    container_name: devpy3
+    working_dir: /workspace/src
     volumes:
       - ../src:/workspace/src
     tty: true
